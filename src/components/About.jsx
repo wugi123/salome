@@ -16,7 +16,7 @@ const About = () => {
         </div>
 
         <div className="text-center mt-4">
-          <a className="btn btn-xl btn-outline-light" href="https://www.google.com/maps?q=-1.1905087,116.884649" rel="noreferrer" target="_blank">
+          <a className="btn btn-xl btn-outline-light" href="https://maps.app.goo.gl/gawWpEj8LoQo4Skr6" rel="noreferrer" target="_blank">
             Pesan Sekarang!
           </a>
         </div>
